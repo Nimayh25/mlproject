@@ -6,4 +6,5 @@ seaborn>=0.12.0
 xgboost==1.7.6
 catboost>=1.1
 dill
+Flask
 #-e .
